@@ -1,0 +1,15 @@
+Note : Ikuti dengan baik sesuai dengan perintah yang ada!
+
+Soal kuis :
+1. Buatlah sebuah program dengan menggunakan menu
+2. Isi menu sebagai berikut :
+   a. Menampilkan data asli
+   b. Tampilkan jumlah missing value(null) pada setiap kolom sesuai inputan dari user
+      Contoh : User ingin mencari jumlah missing value pada kolom nama
+   c. Tampilkan data setelah dilakukan perubahan dari non numerik menjadi numerik
+   d. Tampilkan data hasil feature scaling
+   e. Keluar
+
+
+Keterangan :
+- Lakukan proses untuk merubah data asli menjadi seperti data_clean menggunakan cara yang sudah pernah dipelajari

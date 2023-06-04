@@ -1,0 +1,27 @@
+Soal Kuis
+1. Buatlah program dengan ketentuan menu
+   Menu Utama
+   1. KNN
+      - Input Data
+      - Input Nilai K
+      - Input pembagian antara data latih dan data uji
+        contoh : (80:20, 60:40)
+      - Input Random State
+      - Hasil Akurasi
+   2. K-Means
+      - Input Data
+      - Input Jumlah Kluster
+      - Input pembagian antara data latih dan data uji
+        contoh : (80:20, 60:40)
+      - Input Random State
+      - Hasil Klustering
+   3. Naive Bayes
+      - Input Data
+      - Input pembagian antara data latih dan data uji
+        contoh : (80:20, 60:40)
+      - Input Random State
+      - Hasil Akurasi
+   4. Exit
+
+Keterangan :
+- Menggunakan dataset bebas yang Anda sudah siapkan

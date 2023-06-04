@@ -1,0 +1,13 @@
+Soal Responsi
+1. Hitung jumlah Null pada setiap kolom
+2. Tampilkan data hasil feature scaling
+
+Keterangan :
+- Ubahlah data null sesuai dengan keinginan Anda
+- Sesuai data pada file csv apabila menurut Anda tidak sesuai dan terjadi error
+
+Aturan responsi :
+1. Responsi bersifat close book dan close internet
+2. Dilarang berbuat kecurangan
+3. Wajib membawa kartu praktik
+4. Responsi akan dibagi menjadi beberapa sesi
